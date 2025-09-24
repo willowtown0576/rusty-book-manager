@@ -9,4 +9,5 @@ shared.workspace = true
 async-trait.workspace = true
 derive-new.workspace = true
 anyhow.workspace = true
+uuid.workspace = true
 sqlx.workspace = true
